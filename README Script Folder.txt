@@ -1,0 +1,1 @@
+1- Script Folder uploaded from Blynk Library that usually by default created when you install blynk library in Arduino IDE.
